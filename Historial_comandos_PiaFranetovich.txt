@@ -1,0 +1,373 @@
+ls
+ls -l
+ls -la
+man ls
+man man
+pwd
+whoami
+echo
+hola
+echo $HOME
+LS
+ls
+cat README
+cd repogit
+ls
+git clone https://github.com/piagith/REPO_Pi.git
+ls
+cd REPO_Pi
+ls
+history
+history > historial.txt
+ls
+cat historial.txt
+git status
+git add .
+git status
+git commit -m "mi primer commit"
+git config --global user.email "franetovmariapia@gmail.com"
+git commit -m "mi primer commit"
+git push
+exit
+pwd
+echo $HOME
+ls 
+ls -l
+ls -la
+ssh-keygen -t ed25519
+ls -la
+cd .ssh
+ls
+ls -l
+cd ..
+ls -la
+cd .ssh
+ls
+ls -l
+cat  id_ed25519.pub
+cd ..
+ls -l
+cd repogit
+git clone git@github.com:piagith/REPO_Pi.git
+ls
+cd REPO_Pi
+ls -l
+echo "hola"
+echo "hola" > hola.txt
+ls -l
+cat hola.txt
+git status
+git add .
+git status
+git commit -m "agrego HOLA"
+git status
+git push
+git push -u origin main
+cat /etc/passwd
+vagrant status
+pwd
+echo $HOME
+LS
+ls
+ls -l
+ls -la
+ssh-keygen -t ed25519
+ls -la
+cd .ssh
+ls
+ls -l
+cd ..
+ls -la
+cd.ssh
+cd .ssh
+ls -l
+cat id_ed25519.pub
+cd ..
+ls -l
+cd repogit
+ls -l
+cd repogit
+ls -l
+git clone git@github.com:piagith/REPO_Pi.git
+cd repogit
+cd ..
+ls -l
+cd repogit
+ls -l
+git clone git@github.com:piagith/REPO_Pi.git
+ls
+ls -l
+cd REPO_Pi
+ls
+ls -l
+echo "hola"
+cat hola.txt
+git status
+git add
+git push
+cat /etc/passwd
+tail /etc/passwd
+head /etc/passwd
+cat /etc/passwd
+cat /etc/passwd |grep vagrant
+cat /etc/passwd |grep -n bash
+cat /etc/passwd | grep -nv nologin
+cat /etc/passwd | grep -v nologin
+cat /etc/passwd | grep -v nologin > archivo1.txt
+ls -l
+cat archivo1.txt
+cat /etc/passwd | grep -v nologin | tail -n3
+cat /etc/shadow
+sudo cat /etc/shadow
+lspci
+ls cpu
+lscpu
+lscpu | grep model
+lscpu | grep -i model
+lscpu | grep -i MODEL
+lscpu | grep -i MODEL | head -n1 
+lscpu | grep -i MODEL | head -n1 > info_procesador.txt
+ls
+cat info_procesador.txt
+ls -l
+cat archivo1.txt
+sort archivo1.txt
+cat << FIN 
+cat << FIN > bloque_cat.txt
+linea 1
+linea 2
+linea 3
+FIN
+
+cat bloque_cat.txt
+cat << FIN > bloque_cat.txt
+linea 1
+linea 2
+linea 3
+FIN
+
+cat bloque_cat.txt
+bc <<< 4+3
+ls -l
+cat hola.txt
+echo "chau" >> hola.txt
+cat hola.txt
+echo "chau" > hola.txt
+cat hola.txt
+echo "chau" > chat.txt
+echo "hola" > hola.txt
+cat hola.txt chau.txt > saludo.txt
+git status
+exit
+ls
+cd
+mkdir repogit
+exit
+pwd
+$HOME
+PWD
+pwd
+ls
+cd ..
+$HOME
+cd $HOME
+cat $HOME/.ssh/*.pub
+cd
+mkdir repogit
+cd repogit
+cd $HOME
+cd $HOME repogit 
+cd $HOME
+git clone git@github.com:piagith/TP_Ayso.git
+cd T
+EXIT
+exit
+ls
+cd repogit
+cd TO_AySO/
+git clone git@github.com:piagith/TP_Ayso.git
+pwd
+ls -l
+git clone
+exit
+ls
+cd repogit
+git clone git@github.com:piagith/TP_Ayso.git
+sudo git clone git@github.com:piagith/TP_Ayso.git
+clear
+ls
+cd ..
+ls
+cd repogit
+ls
+sudo 
+exit
+git clone git@github.com:piagith/TP_Ayso.git
+ls
+cd repogit
+cat /etc/os-release
+grep -i Home_url /etc/os-release
+git clone git@github.com:piagith/TP_Ayso.git
+exit
+ssh-keygen
+cat $HOME/.ssh/*.pub
+SHA256:amktHVDVFDMC4FsoE5rPPXld0BCrzy2p2GCnx3y1DJU
+git clone git@github.com:piagith/TP_Ayso.git
+cat ~/.ssh/id_ed25519.pub
+SHA256:amktHVDVFDMC4FsoE5rPPXld0BCrzy2p2GCnx3y1DJU
+git clone git@github.com:piagith/TP_Ayso.git
+cat ~/.ssh/id_ed25519.pub
+git clone git@github.com:piagith/TP_Ayso.git
+clear
+ssh-keygen
+cat $HOME/.ssh/*.pub
+ls
+cd repogit
+cd ..
+ls
+cd $HOME
+LS
+ls
+cd repogiy
+cd repogit
+git clone git@github.com:piagith/TP_Ayso.git
+eval "$
+clearr
+clear
+exit
+
+
+
+
+
+ls
+ls -l
+ls -la
+cd .ssh
+ls
+ls -l
+cat id_ed25519.pub
+cd ..
+ls -l
+cd repogit
+ls -l
+git clone git@github.com:piagith/TP_Ayso.git
+ls
+pwd
+ls
+cd TP_Ayso/
+pwd
+ls -l
+cat /etc/os-release
+man grep
+grep HOME_URL /etc/os-release
+grep home_url /etc/os-release
+grep <parametro> Home_url /etc/os-release
+whoami
+grep < -i > Home_url /etc/os-release
+echo 
+echo "usuario=$(whoami)" > datos_usuario.txt
+ls
+git add .
+ls
+git config --global user.email "franetovmariapia@gmail.com"
+git config --global user.name "piagith"
+git commit -m "1er ejercicio sobre datos_usuarios.txt"
+echo "usuario=$(whoami)" > datos_usuario.txt 
+git status
+exit
+ls
+cd repogit
+ls
+cd TP_Ayso/
+pwd
+ls -l
+cat /etc/os-release
+echo "Usuario=$(whoami)" > datos_usuario.txt
+git status
+git add
+git add .
+git commit -m "ADD: agregado 1er ejercicio sobre datos_usuarios.txt" 
+git status
+git push
+git config --global user.email "franetovmariapia@gmail.com"
+git config --global user.name "piagith"
+git status
+ls
+cat datos_usuario.txt
+head /proc/cpuinfo|grep "model name"
+echo "model name=$(head/proc/cpuinfo|grep "model name")" >> datos_usuarios.txt
+head /proc/cpuinfo|grep "model name"
+echo "Model name=$(head/proc/cpuinfo|grep "model name")" >> datos_usuarios.txt
+echo "Model name=$head /proc/cpuinfo|grep "model name" >> datos_usuarios.txt
+git add .
+git commit -m "feat: info CPU"
+
+FIN
+cd ..
+
+
+
+git add .
+exit
+vagrant halt
+q
+cat $HOME/.ssh/*.pub
+ls
+cd repogit
+ls
+cd TP_Ayso/
+pwd
+ls -l
+rm datos_usuarios.txt
+ls -l
+cat /etc/os-release
+man grep
+grep HOME_URL /etc/os-release
+grep home_url /etc/os-release 
+grep <-i> Home_url /etc/os-release
+grep -i Home_url /etc/os-release
+whoami
+echo "Usuario =$(whoami)" > datos_usuario.txt
+git add .
+git config --global user.email "franetovmariapia@gmail.com"
+git config --global user.name "piagith"
+git commit -m "ADD: agregado 1er ejercicio sobre datos_usuarios.txt"
+git status
+head /proc/cpuinfo | grep "model name"
+echo "Model name=$(head /proc/cpuinfo | grep "model name")" >> datos.usuario.txt
+git add .
+git commit -m "feat: añadiendo informacion ded CPU"
+grep -v nologin /etc/passwd | sort -t":" -k7 | head -n 10
+echo "$(grep -v nologin /etc/passwd | sort -t":" -k7 |head -n 10)"> lista_ordenada.txt
+git add .
+git commit -m "ADD: lista de usuarios ordenada"
+man
+man dump traffic
+man man
+man grep
+grep dump traffic
+grep -i dump traffic
+apropos "dump traffic"
+man tcpdump
+apropos "dump traffic"
+echo "$(apropos "dump traffic")" > comando_dump_net
+ls
+cat comando_dump_net 
+git status
+git add .
+git commit -m "ADD: comando para capturar y analizar el trafico de red"
+cat << FIN >> README.md
+Alumna: Maria Pia Franetovich
+Division: 115
+Turno: Turno Mañana
+FIN
+
+ls
+cat README.md 
+git status
+git add .
+git commit -m "ADD: informacion del alumno, div y turno"
+history
+history -a
+history -a $HOME/.bash_history
